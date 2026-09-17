@@ -1,0 +1,16 @@
+url,label
+https://www.google.com,0
+https://www.microsoft.com,0
+https://www.github.com,0
+https://www.wikipedia.org,0
+https://www.amazon.com,0
+https://www.apple.com,0
+https://www.python.org,0
+https://www.linkedin.com,0
+http://login-secure-example.com,1
+http://verify-account-example.com,1
+http://free-gift-example.com,1
+http://account-security-example.com,1
+http://paypal-login-example.com,1
+http://update-password-example.com,1
+http://secure-login-example.xyz,1
